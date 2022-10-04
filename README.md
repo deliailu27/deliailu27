@@ -1,7 +1,7 @@
 # About me
 
 My name is Delia Yichen Liu <br />
-I am a junior full-stack developer and a philosophy research student<br/> -[personal website](https://deliailu27.github.io/deliayichenliu.github.io/)<br/> -[philosophy writings]() <br/> -[CV]()
+I am a junior full-stack developer and a philosophy research student<br/> -[personal website](https://deliailu27.github.io/deliayichenliu.github.io/)<br/> -[philosophy writings](https://lahoreschoolofeconomice.academia.edu/DeliaLiu) <br/> -[CV]()
 
 ## Technical skills and project samples
 
